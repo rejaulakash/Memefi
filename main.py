@@ -15,11 +15,11 @@ WHITE = "\033[37m"
 # Colorful banner
 banner = f"""{GREEN}
 
-CCCCC  RRRRR  Y   Y PPPPP  TTTTT  OOOOO     III  N   N  OOOOO  V   V  AAAAA  CCCCC  EEEEE
-C       R   R   Y Y  P   P    T   O     O    I   NN  N O     O V   V A     A C      E    
-C       RRRR     Y   PPPPP    T   O     O    I   N N N O     O V   V AAAAAAA C      EEEE 
-C       R  R     Y   P        T   O     O    I   N  NN O     O  V V  A     A C      E    
- CCCCC  R   R    Y   P        T    OOOOO     III N   N  OOOOO    V   A     A  CCCCC  EEEEE
+  III  N   N  OOOOO  V   V  AAAAA  CCCCC  EEEEE
+   I   NN  N O     O V   V A     A C      E    
+   I   N N N O     O V   V AAAAAAA C      EEEE 
+   I   N  NN O     O  V V  A     A C      E    
+  III  N   N  OOOOO    V   A     A  CCCCC EEEEE
                                                                              \033[1;91m 
   RRRR   EEEEE  JJJJJ  AAAAA  U   U  L
   R   R  E        J    A   A  U   U  L
